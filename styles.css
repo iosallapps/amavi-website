@@ -270,3 +270,7 @@ footer { position: relative; margin-top: 20px; background: rgba(16, 6, 24, .6); 
 .legal-lead { margin-bottom: 18px; }
 .lang-link { display: inline-block; margin-bottom: 18px; color: var(--text-2); }
 @media (max-width: 640px) { .screens { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; } .privacy-note { padding: 24px 20px; margin-left: -12px; margin-right: -12px; } }
+
+/* overscroll:start  the aurora stretches from its bottom edge while iOS rubber-bands the top (--osy set by the script) */
+.animated-bg { transform-origin: 50% 100%; scale: 1 calc(1 + var(--osy, 0) / 1500); }
+/* overscroll:end */
