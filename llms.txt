@@ -1,10 +1,10 @@
 # Amavi
 
-> Private period and cycle tracker for iPhone, by Visto Apps (https://vistoapps.com). Coming soon to the App Store.
+> Private period and cycle tracker for iPhone, by Visto Apps (https://vistoapps.com). Free on the App Store: https://apps.apple.com/app/id6833096412
 
 Amavi lets you log periods, flow, symptoms, mood, energy, sleep, temperature, ovulation and pregnancy tests and notes, and estimates your next period, fertile window and ovulation on your iPhone. It sends discreet reminders, has Home and Lock Screen widgets, can optionally sync with Apple Health, has pregnancy and postpartum modes and includes Amavi AI for general information. Requires iOS 18 or later. English and Romanian.
 
-Free to download, with one Google AdMob ad when you open the app. There is no paid version, no account and no analytics. Cycle and health logs stay on the iPhone; they are never sent to us or put into ad requests. Amavi is not a medical device and not contraception.
+Free to download, with one Google AdMob ad when you open the app. There is no paid version and no account. Usage statistics (Google Analytics for Firebase) are collected only with consent where required, never from users under 16, and never include what you log. Cycle and health logs stay on the iPhone; they are never sent to us or put into ad requests. Amavi is not a medical device and not contraception.
 
 ## Pages
 - [Home (English)](https://amaviapp.com/)
